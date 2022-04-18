@@ -1,0 +1,36 @@
+[
+    {
+    "name": "Table",
+    "code": "SKU1",
+    "unit": "3",
+    "tax": "IN",
+    "active_flag": "Y",
+    "visible_to": "customer",
+    "owner_id": "supplier",
+    "prices":[
+        {
+        "price": "10.00", 
+        "currency": "INR",
+        "cost": "6.00",
+        "overhead_cost": "2.00"
+        }
+    ]
+},
+{
+    "name": "Table",
+    "code": "SKU1",
+    "unit": "3",
+    "tax": "IN",
+    "active_flag": "Y",
+    "visible_to": "customer",
+    "owner_id": "supplier",
+    "prices":[
+        {
+        "price": "10.00", 
+        "currency": "INR",
+        "cost": "6.00",
+        "overhead_cost": "2.00"
+        }
+    ]
+}
+]
