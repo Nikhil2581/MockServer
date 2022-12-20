@@ -1,0 +1,22 @@
+{
+    "type" : "categoryHierarchyWsDTO",
+    "id" : "crossreferense",
+    "url" : "/vikingconnect/catalogs/vikingconnectContentCatalog/Online/categories/crossreferense",
+    "subcategories" : [ {
+       "id" : "atexncecrossover",
+       "url" : "/vikingconnect/catalogs/vikingconnectContentCatalog/Online/categories/atexncecrossover",
+       "subcategories" : [ ]
+    }, {
+       "id" : "sgguides",
+       "url" : "/vikingconnect/catalogs/vikingconnectContentCatalog/Online/categories/sgguides",
+       "subcategories" : [ ]
+    }, {
+       "id" : "heavydutyguides",
+       "url" : "/vikingconnect/catalogs/vikingconnectContentCatalog/Online/categories/heavydutyguides",
+       "subcategories" : [ ]
+    }, {
+       "id" : "itsserialnumbers",
+       "url" : "/vikingconnect/catalogs/vikingconnectContentCatalog/Online/categories/itsserialnumbers",
+       "subcategories" : [ ]
+    } ]
+ }

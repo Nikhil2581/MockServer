@@ -1,0 +1,293 @@
+[
+    {
+    "businessUnit":"130001",
+    "orderNumber":769684,
+    "serialNumber":"7797830051",
+    "partNumber":"F-1007-IIRN-011",
+    "productData" : 
+        {
+            "classifications" : [ {
+               "code" : "wftClassification",
+               "features" : [ {
+                  "code" : "vikingClassification/1.0/wftClassification.topchoice",
+                  "comparable" : true,
+                  "featureValues" : [ {
+                     "value" : "false"
+                  } ],
+                  "name" : "Top Choice",
+                  "range" : false
+               } ]
+            }, {
+               "code" : "pumpsClassification",
+               "features" : [ {
+                  "code" : "vikingClassification/1.0/pumpsClassification.topchoice",
+                  "comparable" : true,
+                  "featureValues" : [ {
+                     "value" : "false"
+                  } ],
+                  "name" : "Top Choice",
+                  "range" : false
+               } ],
+               "name" : "Pumps"
+            } ],
+            "classificationsByDisplayGroups" : [ {
+               "code" : "wftClassification",
+               "displayGroups" : [ {
+                  "code" : "specifications",
+                  "features" : [ {
+                     "code" : "vikingClassification/1.0/wftClassification.topchoice",
+                     "comparable" : true,
+                     "featureValues" : [ {
+                        "value" : "false"
+                     } ],
+                     "name" : "Top Choice",
+                     "range" : false
+                  } ],
+                  "name" : "Specifications",
+                  "position" : 1
+               } ]
+            }, {
+               "code" : "pumpsClassification",
+               "displayGroups" : [ {
+                  "code" : "specifications",
+                  "features" : [ {
+                     "code" : "vikingClassification/1.0/pumpsClassification.topchoice",
+                     "comparable" : true,
+                     "featureValues" : [ {
+                        "value" : "false"
+                     } ],
+                     "name" : "Top Choice",
+                     "range" : false
+                  } ],
+                  "name" : "Specifications",
+                  "position" : 1
+               } ],
+               "name" : "Pumps"
+            } ],
+            "code" : "129695.0",
+            "listPrice" : {
+               "currencyIso" : "USD",
+               "formattedValue" : "$602.00",
+               "priceType" : "BUY",
+               "value" : 602.0
+            },
+            "name" : "F-1007-IIRN-011",
+            "price" : {
+               "currencyIso" : "USD",
+               "formattedValue" : "$602.00",
+               "priceType" : "BUY",
+               "value" : 602.0
+            },
+            "stock" : {
+               "isValueRounded" : false
+            },
+            "summary" : "F1007IIRN BN .75T 10MESH"
+         },
+    "orderDate":"11/24/2021",
+    "shipDate":"02/23/2022",
+    "CustomerPO":"00128203",
+    "shippedFrom":"CedarFalls,IA",
+    "assembledProducts":[
+    {
+    "orderNumber":769684,
+    "lineNumber":6,
+    "partNumber":"G432",
+    "description1":"CONFIGURABLEPRODUCT",
+    "description2":""
+    },
+    {
+    "orderNumber":769684,
+    "lineNumber":6.001,
+    "partNumber":"4-1050-3132-003",
+    "description1":"G432XSDCGCGFKMPH1\"T802GSK",
+    "description2":"G432XSDCGCGFKMPH1\"T802GSK"
+    },
+    {
+    "orderNumber":769684,
+    "lineNumber":6.002,
+    "partNumber":"6-10-745-14-0001",
+    "description1":"DLMFORG32BUNIT",
+    "description2":"BRKTFOOTFORG32PUMP"
+    }
+    ]
+    },
+    {
+        "businessUnit":"130002",
+        "orderNumber":769684,
+        "serialNumber":"7797830050",
+        "partNumber":"G432",
+        "orderDate":"11/24/2021",
+        "shipDate":"02/23/2022",
+        "CustomerPO":"00128203",
+        "shippedFrom":"CedarFalls,IA",
+        "assembledProducts":[
+        {
+        "orderNumber":769684,
+        "lineNumber":6,
+        "partNumber":"G432",
+        "description1":"CONFIGURABLEPRODUCT",
+        "description2":""
+        },
+        {
+        "orderNumber":769684,
+        "lineNumber":6.001,
+        "partNumber":"4-1050-3132-003",
+        "description1":"G432XSDCGCGFKMPH1\"T802GSK",
+        "description2":"G432XSDCGCGFKMPH1\"T802GSK"
+        },
+        {
+        "orderNumber":769684,
+        "lineNumber":6.002,
+        "partNumber":"6-10-745-14-0001",
+        "description1":"DLMFORG32BUNIT",
+        "description2":"BRKTFOOTFORG32PUMP"
+        }
+        ]
+        },
+        {
+         "businessUnit":"130003",
+         "orderNumber":769684,
+         "serialNumber":"7797830050",
+         "partNumber":"G432",
+         "orderDate":"11/24/2021",
+         "shipDate":"02/23/2022",
+         "CustomerPO":"00128203",
+         "shippedFrom":"CedarFalls,IA",
+         "assembledProducts":[
+         {
+         "orderNumber":769684,
+         "lineNumber":6,
+         "partNumber":"G432",
+         "description1":"CONFIGURABLEPRODUCT",
+         "description2":""
+         },
+         {
+         "orderNumber":769684,
+         "lineNumber":6.001,
+         "partNumber":"4-1050-3132-003",
+         "description1":"G432XSDCGCGFKMPH1\"T802GSK",
+         "description2":"G432XSDCGCGFKMPH1\"T802GSK"
+         },
+         {
+         "orderNumber":769684,
+         "lineNumber":6.002,
+         "partNumber":"6-10-745-14-0001",
+         "description1":"DLMFORG32BUNIT",
+         "description2":"BRKTFOOTFORG32PUMP"
+         }
+         ]
+         },
+         {
+            "businessUnit":"130004",
+            "orderNumber":769684,
+            "serialNumber":"7797830051",
+            "partNumber":"F-1007-IIRN-011",
+            "productData" : 
+                {
+                    "classifications" : [ {
+                       "code" : "wftClassification",
+                       "features" : [ {
+                          "code" : "vikingClassification/1.0/wftClassification.topchoice",
+                          "comparable" : true,
+                          "featureValues" : [ {
+                             "value" : "false"
+                          } ],
+                          "name" : "Top Choice",
+                          "range" : false
+                       } ]
+                    }, {
+                       "code" : "pumpsClassification",
+                       "features" : [ {
+                          "code" : "vikingClassification/1.0/pumpsClassification.topchoice",
+                          "comparable" : true,
+                          "featureValues" : [ {
+                             "value" : "false"
+                          } ],
+                          "name" : "Top Choice",
+                          "range" : false
+                       } ],
+                       "name" : "Pumps"
+                    } ],
+                    "classificationsByDisplayGroups" : [ {
+                       "code" : "wftClassification",
+                       "displayGroups" : [ {
+                          "code" : "specifications",
+                          "features" : [ {
+                             "code" : "vikingClassification/1.0/wftClassification.topchoice",
+                             "comparable" : true,
+                             "featureValues" : [ {
+                                "value" : "false"
+                             } ],
+                             "name" : "Top Choice",
+                             "range" : false
+                          } ],
+                          "name" : "Specifications",
+                          "position" : 1
+                       } ]
+                    }, {
+                       "code" : "pumpsClassification",
+                       "displayGroups" : [ {
+                          "code" : "specifications",
+                          "features" : [ {
+                             "code" : "vikingClassification/1.0/pumpsClassification.topchoice",
+                             "comparable" : true,
+                             "featureValues" : [ {
+                                "value" : "false"
+                             } ],
+                             "name" : "Top Choice",
+                             "range" : false
+                          } ],
+                          "name" : "Specifications",
+                          "position" : 1
+                       } ],
+                       "name" : "Pumps"
+                    } ],
+                    "code" : "129695.0",
+                    "listPrice" : {
+                       "currencyIso" : "USD",
+                       "formattedValue" : "$602.00",
+                       "priceType" : "BUY",
+                       "value" : 602.0
+                    },
+                    "name" : "F-1007-IIRN-011",
+                    "price" : {
+                       "currencyIso" : "USD",
+                       "formattedValue" : "$602.00",
+                       "priceType" : "BUY",
+                       "value" : 602.0
+                    },
+                    "stock" : {
+                       "isValueRounded" : false
+                    },
+                    "summary" : "F1007IIRN BN .75T 10MESH",
+                    "modelNumber" : "model123"
+                 },
+            "orderDate":"11/24/2021",
+            "shipDate":"02/23/2022",
+            "CustomerPO":"00128203",
+            "shippedFrom":"CedarFalls,IA",
+            "assembledProducts":[
+            {
+            "orderNumber":769684,
+            "lineNumber":6,
+            "partNumber":"G432",
+            "description1":"CONFIGURABLEPRODUCT",
+            "description2":""
+            },
+            {
+            "orderNumber":769684,
+            "lineNumber":6.001,
+            "partNumber":"4-1050-3132-003",
+            "description1":"G432XSDCGCGFKMPH1\"T802GSK",
+            "description2":"G432XSDCGCGFKMPH1\"T802GSK"
+            },
+            {
+            "orderNumber":769684,
+            "lineNumber":6.002,
+            "partNumber":"6-10-745-14-0001",
+            "description1":"DLMFORG32BUNIT",
+            "description2":"BRKTFOOTFORG32PUMP"
+            }
+            ]
+            }
+]

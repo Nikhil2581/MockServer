@@ -1,0 +1,19 @@
+{
+    "environment":"JPY_AODD",
+    "Business_Unit": "110000",
+    "Address_Number": "11003012",
+    "GridData_1": [
+      {
+        "2nd_Item_Number": "EH2M,TB4I.",
+        "Quantity_Shipped": "1"
+      },
+        {
+        "2nd_Item_Number": "EH2M,TB4S.",
+        "Quantity_Shipped": "1"
+      },
+        {
+        "2nd_Item_Number": "EH2M,TC4I.",
+        "Quantity_Shipped": "1"
+      }
+    ]
+  }
